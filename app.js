@@ -1,6 +1,5 @@
 // Import Express.js
 const express = require('express');
-const fetch = require('node-fetch');  // Necesario para reenviar datos
 
 // Create an Express app
 const app = express();
