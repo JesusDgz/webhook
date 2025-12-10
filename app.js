@@ -12,7 +12,7 @@ const port = process.env.PORT || 3000;
 const verifyToken = process.env.VERIFY_TOKEN;
 
 // ====== CONFIG: URL DE TU APP PHP LOCAL ======
-const LOCAL_ENDPOINT = "https://childrens-symposium-spectrum-values.trycloudflare.com/ProAutekAdmin/whatsapp/receiver.php";
+const LOCAL_ENDPOINT = "https://assumptions-andrew-jeff-washer.trycloudflare.com/ProAutekAdmin/whatsapp/receiver.php";
 
 
 // ========= GET VERIFICATION FROM META =========
